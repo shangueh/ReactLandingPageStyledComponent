@@ -1,2 +1,0 @@
-# ReactLandingPageStyledComponent
-Created with CodeSandbox
